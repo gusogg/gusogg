@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gusogg
+- 👋 Hi, I’m @Fida__
 - 👀 I’m interested in computer science and the tech revolution..
 - 🌱 I’m currently learning computer engineering
 
